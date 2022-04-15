@@ -1,4 +1,4 @@
-# [James Buck - PROG272 Landing Page]
+# James Buck - PROG272 Landing Page
 
 This repo is to collect my work for PROG272 at Bellevue College.
 
